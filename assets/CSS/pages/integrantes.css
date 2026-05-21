@@ -3,3 +3,31 @@
 @import url("../base/variables.css");
 @import url("../base/reset.css");
 
+
+.card{
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  
+  
+  font-family: Arial, sans-serif;
+  border-radius: 8px;
+  background-color: #fff;
+  transition: 0.3s;
+  margin-bottom: 1%;
+}
+.card img{
+  border-radius: 5px 5px 0 0;
+  width: 100%;
+  object-fit: cover;
+  
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12%;
+    margin: 1%;
+    justify-content: center;
+}
+
+
