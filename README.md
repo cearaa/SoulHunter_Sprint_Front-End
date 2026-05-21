@@ -1,7 +1,7 @@
 
 # SoulHunter
 
-## Plataforma sustentável gamificada
+## Plataforma Sustentável Gamificada
 
 ### Tecnologias
 - HTML5
