@@ -170,7 +170,7 @@ Garantindo compatibilidade para:
 
 | Nome | RM | Turma | GitHub | LinkedIn |
 |---|---:|---|---|---|
-| Tárik Moussa Alma | 571411 | 1TDSPG | [GitHub](https://github.com/cearaa) | [LinkedIn](www.linkedin.com/in/rikk-alma) |
+| Tárik Moussa Alma | 571411 | 1TDSPG | [GitHub](https://github.com/cearaa) | [LinkedIn](https://www.linkedin.com/in/rikk-alma/) |
 | Giovanni Azevedo | 569750 | 1TDSPG | [GitHub](https://github.com/GiovanniDEAzevedo) | [LinkedIn](https://www.linkedin.com/in/giovanni-azevedo-760753353/) |
 | Ítalo Neto | 572912 | 1TDSPG | [GitHub](https://github.com/I-neeto99) | [LinkedIn](https://www.linkedin.com/in/italo-neto-390579345/) |
 | Fabricio Aquiles Sales da Silva | 570985 | 1TDSPG | [GitHub](https://github.com/fabricioaquiles) | [LinkedIn](https://www.linkedin.com/in/fabricioaquiles/) |
