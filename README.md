@@ -168,9 +168,9 @@ Garantindo compatibilidade para:
 
 # 👨‍💻 Integrantes
 
-| Nome | RM | Turma |
-|---|---:|---|
-| Tárik Moussa Alma | 571411 | 1TDSPG |
+| Nome | RM | Turma | Github | Linkedin
+|---|---|---|---|---|
+| Tárik Moussa Alma | 571411 | 1TDSPG | [GitHub] (https://github.com/cearaa)
 | Ítalo Neto | 572912 | 1TDSPG |
 | Giovanni | 569750 | 1TDSPG |
 | Carlos |  569574 | 1TDSPG |
