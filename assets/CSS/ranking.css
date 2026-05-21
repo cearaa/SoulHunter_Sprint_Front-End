@@ -1,0 +1,14 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+.table th,
+.table td {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+.medal {
+    font-size: 1.5rem;
+}

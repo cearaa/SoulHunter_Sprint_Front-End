@@ -21,7 +21,7 @@ Projeto acadêmico desenvolvido para o <b>Challenge FIAP 2026</b>, com foco em s
 
 # 💡 Sobre o projeto
 
-O **Soul Hunter** é uma plataforma sustentável gamificada criada para incentivar usuários a realizarem ações ecológicas no dia a dia através de desafios, missões e rankings.
+O **SoulHunter** é uma Plataforma Sustentável Gamificada criada para incentivar usuários a realizarem ações ecológicas no dia a dia através de desafios, missões e rankings.
 
 A proposta do projeto é transformar hábitos sustentáveis em uma experiência mais moderna, interativa e motivadora, utilizando elementos de gamificação para aumentar o engajamento dos usuários.
 
@@ -74,7 +74,7 @@ HTML5 • CSS3 • JavaScript • VSCode • GitHub
 
 | Funcionalidade | Descrição |
 |---|---|
-| ✅ Menu responsivo | Menu hambúrguer funcionando em mobile |
+| ✅ Menu responsivo | Menu completo com adaptação correta em diferentes dispositivos |
 | ✅ Dashboard | Sistema de pontuação e progresso |
 | ✅ Ranking | Ranking gamificado com medalhas |
 | ✅ FAQ interativo | Accordion utilizando JavaScript |
