@@ -1,0 +1,29 @@
+.hero {
+    min-height: 80vh;
+    background: linear-gradient(135deg, var(--green), var(--blue));
+    display: flex;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+.hero-content h2 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.section {
+    padding: 4rem 0;
+}
+.stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+.stat-box {
+    background: white;
+    padding: 2rem;
+    border-radius: 14px;
+    min-width: 220px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
