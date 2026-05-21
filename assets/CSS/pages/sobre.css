@@ -1,0 +1,30 @@
+.almas-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    justify-content: center;
+
+    margin-top: 20px;
+}
+
+.alma-card {
+    text-align: center;
+}
+
+.alma-card img {
+    width: 120px;
+
+    border-radius: 12px;
+
+    transition: 0.3s ease;
+}
+
+.alma-card img:hover {
+    transform: scale(1.1);
+}
+
+.alma-card p {
+    margin-top: 10px;
+    font-weight: bold;
+}
