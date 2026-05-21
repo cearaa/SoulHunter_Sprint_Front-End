@@ -1,7 +1,7 @@
 # Soul Hunter - SoulUp
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:2563eb,100:38bdf8&height=220&section=header&text=Soul%20Hunter&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:2563eb,100:38bdf8&height=220&section=header&text=SoulHunter&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 
