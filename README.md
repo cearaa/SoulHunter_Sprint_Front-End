@@ -168,13 +168,13 @@ Garantindo compatibilidade para:
 
 # 👨‍💻 Integrantes
 
-| Nome | RM | Turma | Github | Linkedin
-|---|---|---|---|---|
-| Tárik Moussa Alma | 571411 | 1TDSPG | [GitHub] (https://github.com/cearaa)
-| Ítalo Neto | 572912 | 1TDSPG |
-| Giovanni | 569750 | 1TDSPG |
-| Carlos |  569574 | 1TDSPG |
-| Fabricio | 570985| 1TDSPG |
+| Nome | RM | Turma | GitHub | LinkedIn |
+|---|---:|---|---|---|
+| Tárik Moussa Alma | 571411 | 1TDSPG | [GitHub](https://github.com/cearaa) | [LinkedIn](www.linkedin.com/in/rikk-alma) |
+| Giovanni Azevedo | 569750 | 1TDSPG | [GitHub](https://github.com/GiovanniDEAzevedo) | [LinkedIn](https://www.linkedin.com/in/giovanni-azevedo-760753353/) |
+| Ítalo Neto | 572912 | 1TDSPG | [GitHub](https://github.com/I-neeto99) | [LinkedIn](https://www.linkedin.com/in/italo-neto-390579345/) |
+| Fabricio Aquiles Sales da Silva | 570985 | 1TDSPG | [GitHub](https://github.com/fabricioaquiles) | [LinkedIn](https://www.linkedin.com/in/fabricioaquiles/) |
+| Carlos Eduardo Tsucamoto Chiarelli | 569574 | 1TDSPG | [GitHub](https://github.com/carlostsucamoto) | [LinkedIn](https://www.linkedin.com/in/carlostsucamoto/) |
 
 ---
 
