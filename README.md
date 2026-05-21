@@ -4,12 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:2563eb,100:38bdf8&height=220&section=header&text=Soul%20Hunter&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<p align="center">
-  <img src="./assets/img/hero.png" width="420" alt="Soul Hunter Banner"/>
-</p>
 
 <h2 align="center">
-🌱 Plataforma sustentável gamificada
+🌱 Plataforma Sustentável Gamificada
 </h2>
 
 <p align="center">
