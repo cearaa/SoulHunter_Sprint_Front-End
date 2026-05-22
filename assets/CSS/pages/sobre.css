@@ -28,3 +28,13 @@
     margin-top: 10px;
     font-weight: bold;
 }
+
+.grid-sobre {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.grid-sobre .card:last-child {
+  grid-column: 1 / -1;
+}

@@ -5,3 +5,11 @@
     --gray: #e5e7eb;
     --dark: #1f2937;
 }
+
+.mt-1 {
+    margin-top: 1rem;
+}
+
+.gap-1 {
+    gap: 1rem;
+}
