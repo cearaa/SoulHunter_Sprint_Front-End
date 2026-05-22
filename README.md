@@ -238,6 +238,7 @@ no navegador.
 ✅ Sem CSS inline  
 ✅ Sem JavaScript inline  
 ✅ Estrutura escalável  
+✅ Aria-labels nos elementos interativos
 
 ---
 
