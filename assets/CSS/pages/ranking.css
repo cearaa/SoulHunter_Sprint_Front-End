@@ -2,7 +2,9 @@
     width: 100%;
     border-collapse: collapse;
     background: white;
+    margin-top: 1rem;
 }
+
 .table th,
 .table td {
     padding: 1rem;

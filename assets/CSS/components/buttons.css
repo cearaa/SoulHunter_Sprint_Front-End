@@ -6,6 +6,7 @@
     color: white;
     text-decoration: none;
     transition: 0.3s;
+    border: none;
 }
 .btn:hover {
     transform: translateY(-3px);
