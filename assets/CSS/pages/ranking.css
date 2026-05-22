@@ -5,11 +5,27 @@
     margin-top: 1rem;
 }
 
-.table th,
+.table th{
+    padding: 1rem 1.5rem;
+    border: 1px solid #ddd;
+    background-color: var(--green);
+    color: white;
+}
 .table td {
     padding: 1rem;
     border: 1px solid #ddd;
     text-align: center;
+}
+#rankingFilter {
+    width: 200px;
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    background-color: var(--green);
+    font-size: 1rem;
+    color: white;
+    margin-bottom: 1rem;
+    cursor: pointer;
 }
 .medal {
     font-size: 1.5rem;
