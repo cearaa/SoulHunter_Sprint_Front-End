@@ -13,6 +13,9 @@
 .section {
     padding: 4rem 0;
 }
+.btn{
+    margin-top: 1.5rem;
+}
 .stats {
     display: flex;
     flex-wrap: wrap;
