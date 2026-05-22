@@ -9,15 +9,15 @@ if (menuToggle) {
 }
 
 const back = document.getElementById('backToTop');
-window.addEventListener('scroll', () => {
-    if (window.scrollY > 300) {
-        back.style.display = 'block';
-    } else {
-        back.style.display = 'none';
-    }
-});
 
 if (back) {
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) {
+            back.classList.add('show');
+        } else {
+            back.classList.remove('show');
+        }
+    });
     back.addEventListener('click', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
