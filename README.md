@@ -69,14 +69,15 @@ Aplicando conceitos de:
 |---|---|
 | ✅ Menu Responsivo | Menu hambúrguer funcional |
 | ✅ Dashboard | Pontuação, progresso e missões |
-| ✅ Ranking | Sistema gamificado com medalhas |
+| ✅ Ranking | Sistema gamificado com medalhas e top 5 |
 | ✅ FAQ Interativo | Accordion utilizando JavaScript |
 | ✅ Formulário | Validação de email e campos obrigatórios |
 | ✅ Hover Effects | Transições suaves e animações |
 | ✅ Scroll Suave | Melhor experiência de navegação |
 | ✅ Botão Voltar ao Topo | Navegação otimizada |
 | ✅ Responsividade | Mobile, tablet e desktop |
-
+| ✅ Gradiente de Fundo | Identidade visual consistente em todas as páginas |
+| ✅ Formulário de Contato | Layout estilizado com card e validação |
 </div>
 
 ---
@@ -121,7 +122,9 @@ O projeto utiliza uma identidade visual moderna inspirada em sustentabilidade, t
 ┃ ┃ ┃ ┗ 📄 header.css
 ┃ ┃ ┃
 ┃ ┃ ┣ 📂 pages
+┃ ┃ ┃ ┣ 📄 contato.css
 ┃ ┃ ┃ ┣ 📄 dashboard.css
+┃ ┃ ┃ ┣ 📄 faq.css
 ┃ ┃ ┃ ┣ 📄 home.css
 ┃ ┃ ┃ ┣ 📄 integrantes.css
 ┃ ┃ ┃ ┣ 📄 ranking.css
@@ -153,9 +156,7 @@ O projeto utiliza uma identidade visual moderna inspirada em sustentabilidade, t
 ┣ 📄 integrantes.html
 ┣ 📄 ranking.html
 ┣ 📄 sobre.html
-┗ 📄 README.md```
-
----
+┗ 📄 README.md---
 
 # 📱 Responsividade
 
