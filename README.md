@@ -97,6 +97,8 @@ O projeto utiliza uma identidade visual moderna inspirada em sustentabilidade, t
 | ⚪ Branco | `#ffffff` |
 | ⚫ Cinza Escuro | `#1f2937` |
 | 🔘 Cinza Claro | `#f4f7f9` |
+| 🟩 Fundo Verde Suave | `#d4f0e0` |
+| 🟦 Fundo Azul Suave | `#d4e4f7` |
 
 </div>
 
@@ -110,6 +112,7 @@ O projeto utiliza uma identidade visual moderna inspirada em sustentabilidade, t
 ┣ 📂 assets
 ┃ ┣ 📂 css
 ┃ ┃ ┣ 📂 components
+┃ ┃ ┃ ┣ 📄 buttons.css
 ┃ ┃ ┃ ┣ 📄 cards.css
 ┃ ┃ ┃ ┗ 📄 forms.css
 ┃ ┃ ┃
@@ -120,11 +123,18 @@ O projeto utiliza uma identidade visual moderna inspirada em sustentabilidade, t
 ┃ ┃ ┣ 📂 pages
 ┃ ┃ ┃ ┣ 📄 dashboard.css
 ┃ ┃ ┃ ┣ 📄 home.css
-┃ ┃ ┃ ┗ 📄 ranking.css
+┃ ┃ ┃ ┣ 📄 integrantes.css
+┃ ┃ ┃ ┣ 📄 ranking.css
+┃ ┃ ┃ ┗ 📄 sobre.css
 ┃ ┃ ┃
 ┃ ┃ ┗ 📄 main.css
 ┃ ┃
 ┃ ┣ 📂 img
+┃ ┃ ┣ 📂 almas
+┃ ┃ ┃ ┣ 📄 Pura-Alma.jpg
+┃ ┃ ┃ ┣ 📄 lord voldemetro.jpg
+┃ ┃ ┃ ┣ 📄 Passe-Man.jpeg
+┃ ┃ ┃ ┗ 📄 James Bones.jpeg
 ┃ ┃ ┣ 📄 Carlos.jpeg
 ┃ ┃ ┣ 📄 dashboard.png
 ┃ ┃ ┣ 📄 fabricio.png
@@ -143,8 +153,7 @@ O projeto utiliza uma identidade visual moderna inspirada em sustentabilidade, t
 ┣ 📄 integrantes.html
 ┣ 📄 ranking.html
 ┣ 📄 sobre.html
-┗ 📄 README.md
-```
+┗ 📄 README.md```
 
 ---
 
