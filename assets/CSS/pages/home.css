@@ -11,10 +11,17 @@
     margin-bottom: 1rem;
 }
 .section {
-    padding: 4rem 0;
+    padding: 2rem 0;
+    text-align: center;
 }
 .btn{
     margin-top: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    background: var(--green);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 .stats {
     display: flex;
@@ -28,6 +35,10 @@
     border-radius: 14px;
     min-width: 220px;
     border: 1px solid #ddd;
+}
+.stat-box h3 {
+    font-size: 2rem;
+    color: var(--green);
 }
 @media (max-width: 480px) {
     .hero-content h2 {
