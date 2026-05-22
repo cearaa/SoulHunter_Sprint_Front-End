@@ -9,3 +9,6 @@
 @import url('./pages/dashboard.css');
 @import url('./pages/ranking.css');
 @import url('./pages/sobre.css');
+body {
+    background: linear-gradient(135deg, #d4f0e0, #d4e4f7);
+}

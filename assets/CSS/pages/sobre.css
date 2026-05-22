@@ -7,6 +7,11 @@
 
     margin-top: 20px;
 }
+.card ul {
+    text-align: left;
+    padding-left: 1.5rem;
+    margin-top: 0.5rem;
+}
 
 .alma-card {
     text-align: center;
