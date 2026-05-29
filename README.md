@@ -176,39 +176,62 @@ Garantindo compatibilidade para:
 
 ---
 
+````md
 # 👨‍💻 Integrantes
 
 | Nome | RM | Turma | GitHub | LinkedIn |
-|---|---:|---|---|---|
-| Tárik Moussa Alma | 571411 | 1TDSPG | [GitHub](https://github.com/cearaa) | [LinkedIn](https://www.linkedin.com/in/rikk-alma/) |
-| Giovanni Azevedo | 569750 | 1TDSPG | [GitHub](https://github.com/GiovanniDEAzevedo) | [LinkedIn](https://www.linkedin.com/in/giovanni-azevedo-760753353/) |
-| Ítalo Neto | 572912 | 1TDSPG | [GitHub](https://github.com/I-neeto99) | [LinkedIn](https://www.linkedin.com/in/italo-neto-390579345/) |
-| Fabricio Aquiles Sales da Silva | 570985 | 1TDSPG | [GitHub](https://github.com/fabricioaquiles) | [LinkedIn](https://www.linkedin.com/in/fabricioaquiles/) |
-| Carlos Eduardo Tsucamoto Chiarelli | 569574 | 1TDSPG | [GitHub](https://github.com/carlostsucamoto) | [LinkedIn](https://www.linkedin.com/in/carlostsucamoto/) |
+|:--|:--:|:--:|:--:|:--:|
+| **Tárik Moussa Alma** | 571411 | 1TDSPG | [GitHub](https://github.com/cearaa) | [LinkedIn](https://www.linkedin.com/in/rikk-alma/) |
+| **Giovanni Azevedo** | 569750 | 1TDSPG | [GitHub](https://github.com/GiovanniDEAzevedo) | [LinkedIn](https://www.linkedin.com/in/giovanni-azevedo-760753353/) |
+| **Ítalo Neto** | 572912 | 1TDSPG | [GitHub](https://github.com/I-neeto99) | [LinkedIn](https://www.linkedin.com/in/italo-neto-390579345/) |
+| **Fabricio Aquiles Sales da Silva** | 570985 | 1TDSPG | [GitHub](https://github.com/fabricioaquiles) | [LinkedIn](https://www.linkedin.com/in/fabricioaquiles/) |
+| **Carlos Eduardo Tsucamoto Chiarelli** | 569574 | 1TDSPG | [GitHub](https://github.com/carlostsucamoto) | [LinkedIn](https://www.linkedin.com/in/carlostsucamoto/) |
 
 ---
 
 # 🌐 Repositório
 
 <p align="center">
-  <a href="https://github.com/seuusuario/seurepositorio" target="_blank">
+  <a href="https://github.com/cearaa/SoulHunter_Sprint_Front-End" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Repositório-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-👉 https://github.com/cearaa/SoulHunter_Sprint_Front-End
+  🔗 <a href="https://github.com/cearaa/SoulHunter_Sprint_Front-End">
+    github.com/cearaa/SoulHunter_Sprint_Front-End
+  </a>
 </p>
 
 ---
 
-# 🖥️ Como executar
+# 🖥️ Como executar o projeto
 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/cearaa/SoulHunter_Sprint_Front-End
+git clone https://github.com/cearaa/SoulHunter_Sprint_Front-End.git
+````
+
+Acesse a pasta do projeto:
+
+```bash
+cd SoulHunter_Sprint_Front-End
 ```
+
+Abra o arquivo `index.html` no navegador.
+
+---
+
+# 🚀 Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+
+```
+```
+
 
 Entre na pasta:
 
